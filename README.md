@@ -37,7 +37,6 @@ tipos de deploy, canary, blue-green
 # DevOps
 
 ![devops](https://img.shields.io/badge/Dev-Ops-blue.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a8c68906dba4076bf0b74a2fced61c8)](https://app.codacy.com/app/brunocampos01/devops?utm_source=github.com&utm_medium=referral&utm_content=brunocampos01/devops&utm_campaign=Badge_Grade_Dashboard)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 ![github](https://img.shields.io/badge/Control%20Version-GitHub-brightgreen.svg)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brunocampos01/desenvolvimento-de-sistemas.visitor-badge)
